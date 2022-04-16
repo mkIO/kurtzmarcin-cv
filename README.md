@@ -1,2 +1,2 @@
-# kurtzmarcin-cv
-My Curriculum Vitae created using LaText
+# CV
+My Curriculum Vitae created using LaText, source code and latest compilaton.
